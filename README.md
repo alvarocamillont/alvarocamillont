@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarocamillont/"><img src="https://img.shields.io/badge/-alvarocamillont-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="https://alvarocamillont.dev/"><img src="https://img.shields.io/badge/-@alvarocamillont-03a57a?style=flat&labelColor=03a57a&logo=Medium"</a>
+  <a href="https://alvarocamillont.dev/"><img src="https://img.shields.io/badge/-@alvarocamillont-03a57a?style=flat&labelColor=03a57a&logo=Medium"></a>
 </p>
 
 ### Hi there 👋
